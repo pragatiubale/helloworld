@@ -3,5 +3,7 @@
 void main()
 {
 prinf("hello world");
+  printf(" c programming");
+   printf("it is easy to learn");
 getch();
 }
